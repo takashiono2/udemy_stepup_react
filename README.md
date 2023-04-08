@@ -3,4 +3,4 @@ section4</br>
 #16 styled components</br>
 #17 Emotion</br>
 <!-- #17 Emotion -->
-ローカルで変更
+githubで取り消し
